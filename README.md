@@ -22,7 +22,7 @@ It also provides an **interactive Streamlit web app** to try out predictions in 
 ##  Installation
 
 ### 1️ Clone the Repository
-git clone https://github.com/DeepakAthreshR/LSTM-next-word-predicto.git
+git clone https://github.com/DeepakAthreshR/LSTM-next-word-predictor.git
 cd LSTM-predict-the-next-word
 
 ### 2️ Create and Activate a Virtual Environment
